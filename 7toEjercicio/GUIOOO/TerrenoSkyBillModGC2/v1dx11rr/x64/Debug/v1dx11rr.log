@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (Terreno.vcxproj, TerrenoSky.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\v1dx11rr\Billboard.hlsl(74,10-47): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\x64\Debug\Billboard.cso
+G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\v1dx11rr\Modelo.fx(59,28-58): warning X3206: 'mul': implicit truncation of vector type
+G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\v1dx11rr\Modelo.fx(59,3-59): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\x64\Debug\Modelo.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\v1dx11rr\UI.fx(28,20-50): warning X3206: 'mul': implicit truncation of vector type
+G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\v1dx11rr\UI.fx(28,5-50): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\x64\Debug\UI.cso
+  loadModel.cpp
+G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\v1dx11rr\loadModel.h(5,10): fatal  error C1083: No se puede abrir el archivo incluir: 'xnamath.h': No such file or directory
+  TerrenoSkyBill.cpp
+G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(4,10): fatal  error C1083: No se puede abrir el archivo incluir: 'd3dx11.h': No such file or directory
+  XACT3Util.cpp
+G:\AVANCESpasados\GRAFICAS II\GUIOOO\TerrenoSkyBillModGC2\v1dx11rr\XACT3Util.h(9,10): fatal  error C1083: No se puede abrir el archivo incluir: 'xact3.h': No such file or directory
+  Generando código...
